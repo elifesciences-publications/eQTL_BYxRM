@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Albert et al., "Genetics of trans-regulatory variation in gene expression". eLife, 2018. http://dx.doi.org/10.7554/eLife.35471
+
+
 # Genetics of trans-regulatory variation in gene expression
 ### code and data for 1000 BYxRM haploid yeast segregant eQTL mapping
 #### Joshua S Bloom and Frank W Albert
